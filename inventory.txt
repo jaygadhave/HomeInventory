@@ -1,0 +1,12 @@
+1
+Fridge
+pune
+20
+true
+
+null
+null
+null
+null
+1
+pune
